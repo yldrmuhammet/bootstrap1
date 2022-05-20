@@ -1,4 +1,4 @@
-# PATİKA LİNKİN
+# PATİKA LİNKİM
 
 https://app.patika.dev/myldrm
 
