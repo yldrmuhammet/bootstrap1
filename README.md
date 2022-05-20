@@ -4,4 +4,4 @@ https://app.patika.dev/myldrm
 
 ## SAYFA GÖRÜNÜŞÜ
 
-<img src ="https://www.hizliresim.com/ojhlrhs" align="bot" width="600" heigh="600">
+[url=https://www.hizliresim.com/ojhlrhs][img]https://i.hizliresim.com/ojhlrhs.png[/img][/url]
