@@ -1,4 +1,7 @@
-# bootstrap1
+# pATİKa LİNKİM
+
 https://app.patika.dev/myldrm
 
-[https://media.giphy.com/media/JlVkLKuxRSvLy/giphy.gif](https://i.hizliresim.com/ojhlrhs.png)" align="right" width="300" heigh="200"
+## SAYFA GÖRÜNÜŞÜ
+
+<img src ="https://www.hizliresim.com/ojhlrhs" align="bot" width="600" heigh="600">
