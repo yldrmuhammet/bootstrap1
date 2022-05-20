@@ -1,3 +1,5 @@
 # bootstrap1
 https://app.patika.dev/myldrm
-<img src ="https://www.hizliresim.com/ojhlrhs" align="bottom" width="600" heigh="600">
+
+
+<img src ="[https://media.giphy.com/media/JlVkLKuxRSvLy/giphy.gif](https://i.hizliresim.com/ojhlrhs.png)" align="right" width="300" heigh="200">
